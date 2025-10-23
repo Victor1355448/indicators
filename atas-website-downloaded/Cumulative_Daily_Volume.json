@@ -1,0 +1,6 @@
+{
+  "title": "Cumulative Daily Volume",
+  "content": "\n            <div><div>\nThis indicator displays the cumulative volume over a daily period.\n</div>\n</div><hr><p><img src=\"https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/72081397811/original/PPxrSk5kSEuxPQKvVzU5bGmFuxCprwUiDw.png?1705334084\"></p><p>To add and set up the indicator, open the <a href=\"https://help.atas.net/en/support/solutions/articles/72000602613\">Indicators settings window</a>.</p><p><br></p><h2>Indicator's settings<em><br></em></h2><div><div>\n<h3>Visualization</h3>\n<table>\n<tbody><tr><th>Name</th><th>Description</th></tr>\n<tr>\n<td>Color</td>\n<td>Specifies the color for this element.</td>\n</tr>\n</tbody></table>\n<h3>Misc</h3>\n<table>\n<tbody><tr><th>Name</th><th>Description</th></tr>\n<tr>\n<td>Show description</td>\n<td>The parameter controls the visibility of the indicator's name and its parameters on the chart, enabling the display of this information to be toggled on or off.</td>\n</tr>\n</tbody></table>\n</div>\n</div>\n            \n\n          ",
+  "url": "https://help.atas.net/en/support/solutions/articles/72000618670-cumulative-daily-volume",
+  "scrapedAt": "2025-10-20T22:27:47.183Z"
+}

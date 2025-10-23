@@ -1,0 +1,6 @@
+{
+  "title": "Trades Track",
+  "content": "\n            <div><div>\nThe indicator displays buys and sells in real time in the form of appearing and fading marks at the current price level.\n</div>\n</div><hr><figure><img src=\"https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/72083594648/original/c85uW6UqMLlIYGKLmSi3Kyo_7rgq4hvAUg.png?1706702648\"></figure><p>To add and set up the indicator, open the <a href=\"https://help.atas.net/en/support/solutions/articles/72000602613\">Indicators settings window</a>.</p><p><br></p><h2>Indicator's settings<em><br></em></h2><div><div>\n<h3>Settings</h3>\n<table>\n<tbody><tr><th>Name</th><th>Description</th></tr>\n<tr>\n<td>Buys</td>\n<td>Sets the color of the element representing the buy signal.</td>\n</tr>\n<tr>\n<td>Sells</td>\n<td>Sets the color of the element representing the sell signal.</td>\n</tr>\n<tr>\n<td>Period</td>\n<td>Defines the duration, in milliseconds, for the fading period of displayed items.</td>\n</tr>\n<tr>\n<td>Inside Bar</td>\n<td>If enabled, the display will be at the location of the last bar.</td>\n</tr>\n</tbody></table>\n</div>\n</div>\n            \n\n          ",
+  "url": "https://help.atas.net/en/support/solutions/articles/72000614819-trades-track",
+  "scrapedAt": "2025-10-20T22:27:37.132Z"
+}

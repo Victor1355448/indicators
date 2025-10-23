@@ -1,0 +1,6 @@
+{
+  "title": "Trades on Chart",
+  "content": "\n            <div><div>\nThis indicator is designed to visualize transactions on the chart in the format of \"opening a position - closing a position\".\n</div>\n</div><hr><p><img src=\"https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/72120995635/original/a8BMDqp9zXcFX7XupjgPG77gv35LZztSXQ.png?1729761840\"></p><p><br></p><p>To add and set up the indicator, open the <a href=\"https://help.atas.net/en/support/solutions/articles/72000602613\">Indicators settings window</a>.</p><p><br></p><h2>Indicator's settings<em><br></em></h2><div><div>\n<h3>Visualization</h3>\n<table>\n<tbody><tr><th>Name</th><th>Description</th></tr>\n<tr>\n<td>Show lines</td>\n\n</tr>\n<tr>\n<td>Show description</td>\n\n</tr>\n<tr>\n<td>Buy Color</td>\n\n</tr>\n<tr>\n<td>Sell Color</td>\n\n</tr>\n<tr>\n<td>Line width</td>\n\n</tr>\n<tr>\n<td>Line Style</td>\n<td> <br><br><div>Options: <ul><li><b>Solid</b></li><li><b>Dash</b></li><li><b>Dot</b></li><li><b>DashDot</b></li><li><b>DashDotDot</b></li><li><b>Custom</b></li></ul></div></td>\n</tr>\n<tr>\n<td>Size</td>\n\n</tr>\n</tbody></table>\n</div>\n</div>\n            \n\n          ",
+  "url": "https://help.atas.net/en/support/solutions/articles/72000633119-trades-on-chart",
+  "scrapedAt": "2025-10-20T22:28:16.895Z"
+}

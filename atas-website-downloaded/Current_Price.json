@@ -1,0 +1,6 @@
+{
+  "title": "Current Price",
+  "content": "\n            <div><div>\nThe indicator displays the current price of a chosen instrument on the chart.\n</div>\n</div><hr><p><img src=\"https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/72074796283/original/nLFlRF9L9xVGZCYoeLxMO9JqdtifekpY6A.png?1701183466\"></p><p>To add and set up the indicator, open the <a href=\"https://help.atas.net/en/support/solutions/articles/72000602613\">Indicators settings window</a>.</p><p><br></p><h2>Indicator's settings<em><br></em></h2><div><div>\n\n<table>\n<tbody><tr><th>Name</th><th>Description</th></tr>\n<tr>\n<td>Background</td>\n<td>Sets the background color of the label.</td>\n</tr>\n<tr>\n<td>Text Color</td>\n<td>Sets the color of the label text.</td>\n</tr>\n<tr>\n<td>Font Size</td>\n<td>Sets the font size.</td>\n</tr>\n</tbody></table>\n<h3>Time</h3>\n<table>\n<tbody><tr><th>Name</th><th>Description</th></tr>\n<tr>\n<td>Time</td>\n<td>Determines whether to display the current time.</td>\n</tr>\n<tr>\n<td>Time format</td>\n<td>Defines the time display format.</td>\n</tr>\n</tbody></table>\n</div>\n</div>\n            \n\n          ",
+  "url": "https://help.atas.net/en/support/solutions/articles/72000602361-current-price",
+  "scrapedAt": "2025-10-20T22:22:14.186Z"
+}

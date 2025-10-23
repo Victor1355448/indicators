@@ -1,0 +1,6 @@
+{
+  "title": "Color Bar HH/LL",
+  "content": "\n            <div><div>\nThis indicator colors candles whose level range has moved up or down. If the low of the candle becomes lower than the previous one, and the high becomes higher than the previous candle, then the average color is selected.\n</div>\n</div><hr><p><img src=\"https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/72081381444/original/2FZTN_UIZKzRLgjMvE60c0DrYpCj1ZLLMA.png?1705327863\"></p><p>To add and set up the indicator, open the <a href=\"https://help.atas.net/en/support/solutions/articles/72000602613\">Indicators settings window</a>.</p><p><br></p><h2>Indicator's settings<em><br></em></h2><div><div>\n<h3>Color</h3>\n<table>\n<tbody><tr><th>Name</th><th>Description</th></tr>\n<tr>\n<td>Average</td>\n<td>Specifies the color for this element.</td>\n</tr>\n<tr>\n<td>Highest</td>\n<td>Specifies the color for this element.</td>\n</tr>\n<tr>\n<td>Lowest</td>\n<td>Specifies the color for this element.</td>\n</tr>\n</tbody></table>\n</div>\n</div>\n            \n\n          ",
+  "url": "https://help.atas.net/en/support/solutions/articles/72000618502-color-bar-hh-ll",
+  "scrapedAt": "2025-10-20T22:27:44.147Z"
+}
